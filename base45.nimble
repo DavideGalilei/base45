@@ -1,0 +1,5 @@
+version     = "0.0.1"
+author      = "DavideGalilei"
+description = "A library to decode Base45"
+license     = "MIT"
+srcDir      = "src"
